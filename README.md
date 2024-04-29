@@ -1,30 +1,38 @@
 # Git Cheatsheets
 
-![](Git-Logo-2Color.svg)
+<p align="center">
+  <img width="100" src="./files/Git-Logo-2Color.svg">
+</p>
 
-![](gitworkflow.png)
+<p align="center">
+  <img src="./files/gitworkflow.png">
+</p
 
 ### GitKraken
 
-![GitKraken git cheatsheet](./gitkraken-git-basics-cheat-sheet.png)
-[GitKraken git cheatsheet](./gitkraken-git-basics-cheat-sheet.pdf)
+![GitKraken git cheatsheet](./files/gitkraken-git-basics-cheat-sheet.png)
+
+[GitKraken git cheatsheet](./files/gitkraken-git-basics-cheat-sheet.pdf)
 
 https://www.gitkraken.com/learn/git/commands
 
 ### GitLab
 
-![GitLab git cheatsheet](./git-cheat-sheet_gitlab.png)
-[GitLab git cheatsheet](./git-cheat-sheet_gitlab.pdf)
+![GitLab git cheatsheet](./files/git-cheat-sheet_gitlab.png)
+
+[GitLab git cheatsheet](./files/git-cheat-sheet_gitlab.pdf)
 
 ### GitHub
 
-![GitHub git cheatsheet](./github-cheat-sheet-education.png)
-[GitHub git cheatsheet](./github-cheat-sheet-education.pdf)
+![GitHub git cheatsheet](./files/github-cheat-sheet-education.png)
+
+[GitHub git cheatsheet](./files/github-cheat-sheet-education.pdf)
 
 ### Atlassian
 
-![Atlassian git cheatsheet](./git-SWTM-2088_Atlassian-Git-Cheatsheet.png)
-[Atlassian git cheatsheet](./git-SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
+![Atlassian git cheatsheet](./files/git-SWTM-2088_Atlassian-Git-Cheatsheet.png)
+
+[Atlassian git cheatsheet](./files/git-SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
 
 ### Git-Tower
 
@@ -32,15 +40,17 @@ https://www.git-tower.com/blog/git-cheat-sheet/
 
 ### OpenSource.com
 
-![OpenSource.com git cheatsheet](./git-OSDC_cheatsheet-git-2022.4.7.png)
-[OpenSource.com git cheatsheet](./git-OSDC_cheatsheet-git-2022.4.7.pdf)
+![OpenSource.com git cheatsheet](./files/git-OSDC_cheatsheet-git-2022.4.7.png)
+
+[OpenSource.com git cheatsheet](./files/git-OSDC_cheatsheet-git-2022.4.7.pdf)
 
 https://opensource.com/downloads/cheat-sheet-git
 
 ### Boston University
 
-![Boston University git cheatsheet](./boston-university_Git_CheatSheet.png)
-[Boston University git cheatsheet](./boston-university_Git_CheatSheet.pdf)
+![Boston University git cheatsheet](./files/boston-university_Git_CheatSheet.png)
+
+[Boston University git cheatsheet](./files/boston-university_Git_CheatSheet.pdf)
 
 **Other useful links:**
 
